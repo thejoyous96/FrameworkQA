@@ -59,7 +59,6 @@ public class FeelingLucky extends GoogleBase{
 
 	@When("I click on I am Feeling Lucky button")
 	public void i_click_on_i_am_feeling_lucky_button() {
-	
 		
 		/*
 		
@@ -76,7 +75,6 @@ public class FeelingLucky extends GoogleBase{
 
 	@Then("I land on the first result homepage")
 	public void i_land_on_the_first_result_homepage() {
-		
 		
 		/*
 	
